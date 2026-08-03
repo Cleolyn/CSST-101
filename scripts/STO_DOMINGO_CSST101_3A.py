@@ -1,0 +1,5 @@
+print("Sto Domingo, Eulyn Vincee Ann A. ")
+print("BSCS")
+print("3A")
+print("Object Detection and Recognition")
+print("Computer Vision")
